@@ -1,3 +1,7 @@
+# Intellij IDEA configuration
+.idea/*
+gemini.iml
+
 # Compiled class file
 *.class
 
